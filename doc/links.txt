@@ -1,0 +1,9 @@
+working typescript with node
+https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d
+
+
+working with git branches
+https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/
+
+cors error accessing angular-node
+https://stackoverflow.com/questions/54266425/http-request-to-a-local-node-server-from-local-angular-project-cors-err
